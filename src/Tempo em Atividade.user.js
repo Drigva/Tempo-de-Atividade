@@ -9,9 +9,9 @@
 // @grant           none
 // @license         MIT
 
-// @name:pt         Tempo de Atividade
-// @name:pt-BR      Tempo de Atividade
-// @name:pt-PT      Tempo de Atividade
+// @name:pt         Tempo em Atividade
+// @name:pt-BR      Tempo em Atividade
+// @name:pt-PT      Tempo em Atividade
 // @name:en         Activity Time
 // @name:en-US      Activity Time
 
