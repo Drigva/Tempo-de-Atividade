@@ -9,6 +9,10 @@
 // @grant           none
 // @license         MIT
 
+// @homepageURL  https://github.com/Drigva/Tempo-de-Atividade
+// @downloadURL  https://github.com/Drigva/Tempo-de-Atividade/raw/refs/heads/main/src/Tempo%20em%20Atividade.user.js
+// @updateURL  https://gist.github.com/Drigva/b02f87ff6055c2ba9964442c6928717a/raw/a3b144f6ba1c0bd62e19ccechttps://github.com/Drigva/Tempo-de-Atividade/raw/refs/heads/main/src/Tempo%20em%20Atividade.user.js
+
 // @name:pt         Tempo em Atividade
 // @name:pt-BR      Tempo em Atividade
 // @name:pt-PT      Tempo em Atividade
