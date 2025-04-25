@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name            Tempo em Atividade
+// @namespace       
 // @version         1.2
 // @description     Exibe o tempo que você passa ativamente em cada guia, ao lado do título da aba. O tempo só é contado quando a guia está visível, ajudando você a monitorar seu uso real do navegador.
 // @author          Drygva
@@ -20,6 +21,15 @@
 // @description:es          Muestra tu tiempo de uso diario en cada sitio junto al título de las pestañas en el navegador.
 // @description:en          Displays the time you spend actively in each tab next to the tab title. Time is only counted when the tab is visible, helping you monitor your actual browser usage.
 // @description:en-US       Displays the time you spend actively in each tab next to the tab title. Time is only counted when the tab is visible, helping you monitor your actual browser usage.
+
+// @grant            none
+// @license          MIT
+ 
+// @compatible      chrome
+// @compatible      firefox
+// @compatible      opera
+// @compatible      edge
+// @compatible      safari
 // ==/UserScript==
 
 let tempoTotal = 0;
